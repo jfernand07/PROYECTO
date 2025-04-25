@@ -1,0 +1,64 @@
+Desafío IA: Transformando el Reclutamiento de Personal
+
+1. Introducción
+
+Este proyecto documenta la transformación del proceso de *reclutamiento y selección de personal* en una empresa mediana. El proceso tradicional, basado en revisión manual de currículums, entrevistas iniciales y filtrado humano, resulta ineficiente, propenso a sesgos y difícil de escalar.
+Con la integración de una solución basada en *inteligencia artificial (IA) .especialmente procesamiento de lenguaje natural (NLP) y modelos predictivos, es posible automatizar y mejorar esta tarea crítica del área de Recursos Humanos.
+
+2. Descripción del Proceso Tradicional
+
+Situación Actual
+El departamento de RRHH publica ofertas laborales y recibe cientos de currículums. Los reclutadores deben leerlos, filtrarlos y entrevistar a los candidatos. Este trabajo consume tiempo y puede ser inconsistente.
+
+- Limitaciones del Proceso
+- Alto consumo de tiempo en la lectura de CVs.
+- Criterios subjetivos y sesgos humanos.
+- Difícil detectar talento potencial no evidente.
+- Limitado para grandes volúmenes de postulantes.
+
+3. Solución con IA
+
+Objetivo
+Automatizar la preselección de candidatos, mejorar la objetividad del proceso y optimizar el tiempo de contratación.
+
+- Tecnología Empleada
+- *NLP* para analizar texto de currículums.
+- *Modelos predictivos* entrenados con datos históricos de contrataciones exitosas.
+- *IA conversacional* para entrevistas automáticas preliminares.
+
+Flujo con IA Integrada
+1. Recepción automatizada de CVs.
+2. Análisis semántico del contenido.
+3. Clasificación y puntuación de candidatos.
+4. Entrevista automatizada opcional por chatbot.
+5. Lista corta generada automáticamente para revisión humana.
+
+Beneficios Esperados
+- Preselección más justa y objetiva.
+- Reducción del tiempo de contratación.
+- Detección de talento oculto o no evidente.
+- Ahorro de costos operativos.
+- Mayor diversidad en los perfiles seleccionados.
+
+4. Comparativa entre Procesos
+
+| Aspecto                    | Proceso Tradicional          | Solución con IA                      |
+|----------------------------|------------------------------|--------------------------------------|
+| Tiempo de filtrado         | Lento (días o semanas)       | Rápido (minutos)                     |
+| Precisión en la selección  | Variable, subjetiva          | Basada en datos y resultados         |
+| Sesgos en decisiones       | Altos                        | Reducción significativa              |
+| Escalabilidad              | Limitada                     | Alta, sin afectar la calidad         |
+| Costo operativo            | Alto                         | Menor, más eficiente                 |
+
+
+
+5. Reflexión Personal
+
+Integrar IA en procesos de selección es más que una mejora tecnológica: es un paso hacia una *gestión del talento más justa, ágil y basada en evidencia*. No obstante, se deben tener en cuenta aspectos éticos esenciales:
+
+- Protección de datos personales.
+- Transparencia en los criterios de evaluación.
+- Supervisión humana en decisiones críticas.
+- Inclusión y equidad en el diseño del sistema.
+
+Una IA bien implementada *no reemplaza al equipo de RRHH*, sino que lo potencia.
